@@ -195,3 +195,82 @@ main{
     height: 100%;
     border-radius: 16px;
 }
+
+.thrid-section{
+
+  
+    margin-top: 140px;
+}
+
+.third-text-container{
+
+    text-align: center;
+}
+
+.third-text-container h1{
+
+    margin-bottom: 24px;
+}
+
+.third-text-container p{
+
+    margin-bottom: 48px;
+    color: rgb(13, 19, 33);
+}
+
+.third-skill-container{
+
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+
+    
+    
+}
+
+.third-skill{
+
+    padding: 40px;
+    
+    border-radius: 16px;
+}
+
+.third-skill h1{
+
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+
+.third-skill p{
+
+    
+    margin-bottom: 24px;
+    font-size: 16px;
+
+}
+
+.third-skill a{
+
+    
+    margin-bottom: 40px;
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+    
+}
+
+.html-bg{
+
+    background-color: rgba(255, 76, 30, 0.05);
+
+}
+.css-bg{
+
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.js-bg{
+
+    background-color: rgba(255, 223, 0, 0.05);
+}
+
+
