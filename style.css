@@ -273,4 +273,48 @@ main{
     background-color: rgba(255, 223, 0, 0.05);
 }
 
+.fourth-section{
+
+    margin-top: 150px;
+    display: grid;
+    gap: 24px;
+}
+
+.skill-set{
+
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    padding-bottom: 40px;
+    
+
+    border: 1px solid #dbdcde;
+    border-radius: 16px;
+
+}
+
+.skill-set-img{
+
+    padding: 24px;
+}
+
+.skill-set-text-container h1{
+
+    margin-bottom: 10px;
+}
+
+.skill-set-text-container p{
+
+    margin-bottom: 40px;
+    color: rgb(13, 19, 33);
+    font-weight: 400;
+}
+
+
+.skill-set-text-container a{
+
+    color: black;
+    font-weight: 600;
+    
+}
 
