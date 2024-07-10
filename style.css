@@ -92,16 +92,67 @@ main{
 
     width: 80%;
     margin: auto;
+
+}
+
+.section{
+    background-color: #f0f3f7;
+    border-radius: 16px;
+    margin-top: 80px;
+    padding-bottom: 100px;
 }
 
 .whyweb{
 
     text-align: center;
-    margin-top: 160px;
+    padding-top: 80px;
+    
     margin-bottom: 50px;
 }
 
-.whyweb h{
+.whyweb h1{
 
     font-weight: 900;
+    padding-bottom: 24px;
+}
+
+.section-1{
+
+    display: flex;
+    justify-content: space-between;
+    
+    background-color: #fafafb;
+    margin: 50px 100px;
+    padding: 60px;
+    border-radius: 10px;
+}
+
+.text-container h1{
+    color: #555963;
+    margin-bottom: 40px;
+   
+}
+
+.text-container p{
+    color: #555a64;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 40px;
+   
+}
+
+.text-container a{
+    color: #555963;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    border: 1px solid #555a64;
+    padding: 12px 20px;
+
+    
+   
+}
+
+.img-container{
+    
 }
